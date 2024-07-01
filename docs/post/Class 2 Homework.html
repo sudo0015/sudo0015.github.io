@@ -4,7 +4,7 @@
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link href="//cdn.staticfile.net/Primer/21.0.7/primer.css" rel="stylesheet" />
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <link rel="icon" href="https://github.com/sudo0015/sudo0015/raw/main/icon.svg"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
@@ -123,8 +123,10 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <p>下学期初，校学生处、团委将组织社会实践评比，请各班将各类材料做好整理和记录，以 PPT 形式（现场展示）展示，限时3分钟，要求主讲人脱稿展示，评比选出社会实践和社区服务的先进集体，并记入班级考核。希望广大学生能抓住暑假这个有利时机，积极参加实践活动，锤炼自己的各种能力，怀揣家国情怀，扎根祖国大地，用行动践行初心使命，以奉献诠释责任担当！祝同学们假期愉快！</p>
 </blockquote></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
+
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
 <div class="comments" id="comments"></div>
+
 </div>
     <div id="footer">Copyright © <span id="year"></span><a href="https://sudo0015.github.io"> BUG STUDIO </a>
 <p>
@@ -179,6 +181,8 @@ console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5p
 <script>
 document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
 
 function openComments(){
     cm=document.getElementById("comments");
