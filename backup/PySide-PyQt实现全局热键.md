@@ -1,7 +1,7 @@
-# 说在前面的话
+## 说在前面的话
 
 > 本人是一只爱搞开发的中学牲，Qt的学习还在路上，这篇博文是我在艰苦摸索后的经验总结，希望看到这篇文章的你能少走些弯路。
-# 艰辛历程
+## 艰辛历程
 上来就找了很多文章，一通Ctrl+C、Ctrl+V之后，发现竟没有一个能跑起来！其中相对来说对我最有启发的是这篇[python3 pyqt5 实现热键唤出窗口](https://blog.csdn.net/qq_43036532/article/details/105834639)，在这里有必要把代码贴上来。
 > hotKet.py
 
@@ -155,7 +155,9 @@ if __name__ == '__main__':
 这样的代码看似完美，运行后可以实现窗口对全局热键的响应，但当第二次按下全局热键时：
 ![运行截图](https://i-blog.csdnimg.cn/blog_migrate/7f2f62e071983cc7d62a5ae1be400a30.png#pic_center)
 于是我又开始在网上寻找解决方案，当我看到了这篇文章（[Qt PySide2实现全局热键(原生)](https://blog.csdn.net/User287/article/details/131932393)）时，一切豁然开朗：**不是success之后就万事大吉了，还要把热键注销，不然下一次就注册不了！！！**
-i.e. 还要在`print("success!")`后面加上`user32.UnregisterHotKey(None, 1)`，其中1是hotkey_id。
+> [!IMPORTANT]
+> 还要在`print("success!")`后面加上`user32.UnregisterHotKey(None, 1)`，其中1是hotkey_id。
+
 所以hotKey.py就要改成下面的样子：
 
 > hotKey.py
@@ -190,7 +192,7 @@ class HotKey(QThread):
 
 ```
 此时再运行，OK，完美解决！
-# 完整DEMO
+## 完整DEMO
 
 > hotKey.py
 
@@ -256,7 +258,7 @@ if __name__ == '__main__':
 ```
 > [!NOTE]
 > 注册的全局热键是`Alt+~`。
-# 总结
+## 总结
 
  - 抄代码得带上自己的思考，光复制粘贴是没有出路的！
  - 相关项目（[Github地址](https://github.com/sudo0015/Random)）

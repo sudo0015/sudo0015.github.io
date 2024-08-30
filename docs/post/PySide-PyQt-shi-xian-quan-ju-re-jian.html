@@ -10,11 +10,11 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="# 说在前面的话
+<meta name="description" content="## 说在前面的话
 
 > 本人是一只爱搞开发的中学牲，Qt的学习还在路上，这篇博文是我在艰苦摸索后的经验总结，希望看到这篇文章的你能少走些弯路。">
 <meta property="og:title" content="PySide/PyQt实现全局热键">
-<meta property="og:description" content="# 说在前面的话
+<meta property="og:description" content="## 说在前面的话
 
 > 本人是一只爱搞开发的中学牲，Qt的学习还在路上，这篇博文是我在艰苦摸索后的经验总结，希望看到这篇文章的你能少走些弯路。">
 <meta property="og:type" content="article">
@@ -57,7 +57,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     font-size: 12px;
 }
 </style>
-<style>.markdown-alert{padding:0.5rem 1rem;margin-bottom:1rem;border-left:.25em solid var(--borderColor-default,var(--color-border-default));}.markdown-alert .markdown-alert-title {display:flex;font-weight:var(--base-text-weight-medium,500);align-items:center;line-height:1;}.markdown-alert>:first-child {margin-top:0;}.markdown-alert>:last-child {margin-bottom:0;}</style><style>.markdown-alert.markdown-alert-note {border-left-color:var(--borderColor-accent-emphasis, var(--color-accent-emphasis));background-color:var(--color-accent-subtle);}.markdown-alert.markdown-alert-note .markdown-alert-title {color: var(--fgColor-accent,var(--color-accent-fg));}</style>
+<style>.markdown-alert{padding:0.5rem 1rem;margin-bottom:1rem;border-left:.25em solid var(--borderColor-default,var(--color-border-default));}.markdown-alert .markdown-alert-title {display:flex;font-weight:var(--base-text-weight-medium,500);align-items:center;line-height:1;}.markdown-alert>:first-child {margin-top:0;}.markdown-alert>:last-child {margin-bottom:0;}</style><style>.markdown-alert.markdown-alert-note {border-left-color:var(--borderColor-accent-emphasis, var(--color-accent-emphasis));background-color:var(--color-accent-subtle);}.markdown-alert.markdown-alert-note .markdown-alert-title {color: var(--fgColor-accent,var(--color-accent-fg));}</style><style>.markdown-alert.markdown-alert-important {border-left-color:var(--borderColor-done-emphasis, var(--color-done-emphasis));background-color:var(--color-done-subtle);}.markdown-alert.markdown-alert-important .markdown-alert-title {color: var(--fgColor-done,var(--color-done-fg));}</style>
 
 
 
@@ -87,11 +87,11 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div class="markdown-body" id="postBody"><h1>说在前面的话</h1>
+<div class="markdown-body" id="postBody"><h2>说在前面的话</h2>
 <blockquote>
 <p>本人是一只爱搞开发的中学牲，Qt的学习还在路上，这篇博文是我在艰苦摸索后的经验总结，希望看到这篇文章的你能少走些弯路。</p>
 </blockquote>
-<h1>艰辛历程</h1>
+<h2>艰辛历程</h2>
 <p>上来就找了很多文章，一通Ctrl+C、Ctrl+V之后，发现竟没有一个能跑起来！其中相对来说对我最有启发的是这篇<a href="https://blog.csdn.net/qq_43036532/article/details/105834639" rel="nofollow">python3 pyqt5 实现热键唤出窗口</a>，在这里有必要把代码贴上来。</p>
 <blockquote>
 <p>hotKet.py</p>
@@ -233,9 +233,10 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <span class="pl-s1">sys</span>.<span class="pl-en">exit</span>(<span class="pl-s1">app</span>.<span class="pl-en">exec</span>())</pre></div>
 <p>这样的代码看似完美，运行后可以实现窗口对全局热键的响应，但当第二次按下全局热键时：<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c13ec920e30c5dd62b09dc0adfc714d3395b1280578e1e5802b0daa74854532a/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f37663266363265303731393833636337643632613561653162653430306133302e706e67237069635f63656e746572"><img src="https://camo.githubusercontent.com/c13ec920e30c5dd62b09dc0adfc714d3395b1280578e1e5802b0daa74854532a/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f37663266363265303731393833636337643632613561653162653430306133302e706e67237069635f63656e746572" alt="运行截图" data-canonical-src="https://i-blog.csdnimg.cn/blog_migrate/7f2f62e071983cc7d62a5ae1be400a30.png#pic_center" style="max-width: 100%;"></a><br>
-于是我又开始在网上寻找解决方案，当我看到了这篇文章（<a href="https://blog.csdn.net/User287/article/details/131932393" rel="nofollow">Qt PySide2实现全局热键(原生)</a>）时，一切豁然开朗：<strong>不是success之后就万事大吉了，还要把热键注销，不然下一次就注册不了！！！</strong><br>
-i.e. 还要在<code class="notranslate">print("success!")</code>后面加上<code class="notranslate">user32.UnregisterHotKey(None, 1)</code>，其中1是hotkey_id。<br>
-所以hotKey.py就要改成下面的样子：</p>
+于是我又开始在网上寻找解决方案，当我看到了这篇文章（<a href="https://blog.csdn.net/User287/article/details/131932393" rel="nofollow">Qt PySide2实现全局热键(原生)</a>）时，一切豁然开朗：<strong>不是success之后就万事大吉了，还要把热键注销，不然下一次就注册不了！！！</strong></p>
+<div class="markdown-alert markdown-alert-important"><p class="markdown-alert-title"><svg class="octicon octicon-report mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>Important</p><p>还要在<code class="notranslate">print("success!")</code>后面加上<code class="notranslate">user32.UnregisterHotKey(None, 1)</code>，其中1是hotkey_id。</p>
+</div>
+<p>所以hotKey.py就要改成下面的样子：</p>
 <blockquote>
 <p>hotKey.py</p>
 </blockquote>
@@ -266,7 +267,7 @@ i.e. 还要在<code class="notranslate">print("success!")</code>后面加上<cod
             <span class="pl-k">finally</span>:
                 <span class="pl-s1">user32</span>.<span class="pl-v">UnregisterHotKey</span>(<span class="pl-c1">None</span>, <span class="pl-c1">1</span>)</pre></div>
 <p>此时再运行，OK，完美解决！</p>
-<h1>完整DEMO</h1>
+<h2>完整DEMO</h2>
 <blockquote>
 <p>hotKey.py</p>
 </blockquote>
@@ -326,7 +327,7 @@ i.e. 还要在<code class="notranslate">print("success!")</code>后面加上<cod
     <span class="pl-s1">sys</span>.<span class="pl-en">exit</span>(<span class="pl-s1">app</span>.<span class="pl-en">exec</span>())</pre></div>
 <div class="markdown-alert markdown-alert-note"><p class="markdown-alert-title"><svg class="octicon octicon-info mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg>Note</p><p>注册的全局热键是<code class="notranslate">Alt+~</code>。</p>
 </div>
-<h1>总结</h1>
+<h2>总结</h2>
 <ul>
 <li>抄代码得带上自己的思考，光复制粘贴是没有出路的！</li>
 <li>相关项目（<a href="https://github.com/sudo0015/Random">Github地址</a>）</li>
