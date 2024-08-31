@@ -257,8 +257,10 @@ if __name__ == '__main__':
 
 ```
 > [!NOTE]
-> 注册的全局热键是`Alt+~`。
+> 注册的全局热键是`Alt`+`~`。
 ## 总结
 
  - 抄代码得带上自己的思考，光复制粘贴是没有出路的！
  - 相关项目（[Github地址](https://github.com/sudo0015/Random)）
+ <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
+
