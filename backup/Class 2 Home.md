@@ -1,6 +1,8 @@
 `课件&作业&通知` `2024/9/15更新`
 ## 课件
-**[在百度网盘中打开](https://pan.baidu.com/s/14VBuFbPU6buK3F1ZHeRzpw?pwd=2602)**
+**[在百度网盘中打开](https://pan.baidu.com/s/14VBuFbPU6buK3F1ZHeRzpw)**
+> [!IMPORTANT]
+> *考虑到隐私保护，此链接将不再自动填充提取码，提取码请到群内查看。*
 ## 作业
 - **语文**：卷1-9
 - **数学**：卷
