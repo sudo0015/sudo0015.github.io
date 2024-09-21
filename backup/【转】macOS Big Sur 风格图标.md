@@ -32,7 +32,7 @@
 **规范**：需要注意的是，这次 macOS 采用了和 iOS、iPad OS 一致的曲率连续矩形，为了让图标更准确，可以直接在官方的 macOS Big Sur 官方控件资源基础上进行绘制。
 
 > [!TIP]
-> ### 关于图层样式的一点总结
+> ### 图层样式总结
 > <div align=center><img src="https://github.com/user-attachments/assets/0e7f8e65-abd9-4822-bc85-8719b6c8fa47" width="358.6" height="205.8"></div>
 > 
 > **外浮效果**：本体色比环境色亮本体渐变上亮下暗投影+内阴影上亮下暗 
