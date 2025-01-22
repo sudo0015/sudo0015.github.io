@@ -7,7 +7,61 @@
 
 ## 作业
 
-- 暂无
+### 语文
+1. 寒假作业本（留下做题痕迹，订正痕迹）；
+2. 背诵选择性必修下册《氓》、《离骚》、《蜀道难》、《蜀相》、《望海潮》、《扬州慢》、《陈情表》、《兰亭集序》、《归去来兮辞》；
+3. 买《一本语言文字运用》自己做；
+4. 读一本好书，推荐《乌合之众》、《坟》、《唐宋词十七讲》或其他（下学期介绍）；
+5. 准备开学浙江省名校协作体考试（考试范围：选择性必修上册+选择性必修中册第一单元）。
+
+### 数学
+作业本
+### 英语
+
+#### I. Three exam papers
+1. Please finish all of them, including the Listening and Writing.
+The answer key will be available at the end of the papers.
+2. Please do in-depth reading comprehension after checking the answers, such as clearing the main
+idea, the structure, and the expressions, etc.
+Your comprehension notes will be checked at the beginning of the next term by Rick. And at the
+beginning of the next term, there will be an assessment of the accumulated knowledge from the tests, including grammar cloze and model essays.
+
+#### II. Vocabulary in 3500
+Congratulations! You have completed 15 days. But keep it in mind, there are more challenging words
+and phrases waiting for you.
+Please review the words and phrases from Day1 to Day15. Then remember the 8 days at least (If you're capable, keep learning OR choose your own path to remember) and prepare for the QUIZ at the
+beginning of the next term.
+
+#### III. Handwriting Practice
+Do not forget to practice your handwriting if necessary.
+What I want to see at the beginning of the next term is your improvement and your handwriting
+practice papers (at least 5).
+
+#### IV. Let me know your English learning
+You have suffered a lot in facing challenges on English learning. As your teacher, I should give you big applause. To be honest, learning a language is supposed to be joyful, through which numerous fascinating works in that language will be accessible to you, e.g. literary works, movies, poetry, TV & Online programs, speeches, and even the language, the text itself... Among all these things, I do hope you can find your own enjoyments of learning English during this long winter holiday.
+So, let's make it clear.
+
+##### Step1
+Please choose one of the following activities, then finish it.
+1. Watch at least one Englis movie/cartoon/speech/documentary... other programs that you can find.
+(It would be better if the video has both Chinese and English subtitles...)
+2. Read a literary work (e.g. novel? it might be time-consuming, but it's okay. A chapter from a novel is recommended.), or an English poem. Of course, I will send you some foreign magazines to English lesson representative, and you can get it from them.
+
+##### Step2
+Keep your learning records.
+1. It can be a short report (150-200 words) written by yourself, about what you have watched/ read/explored.
+2. Or you can make a one-page Poster to give us your presentation (at least 3minutes) on what you
+
+have done for English learning.
+Get prepared to share at the beginning next term.
+
+### 物理
+作业本
+### 化学
+作业本
+### 生物
+作业本
+
 > [!WARNING]
 > *作业可能不完整，请以老师要求为准。*
 
