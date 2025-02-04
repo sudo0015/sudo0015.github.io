@@ -4,24 +4,26 @@ Express 是一款用于文件同步/复制的桌面应用。为方便同学们�
  
 ## 特性
  
-- 简洁
+### 简洁
 
-1. 全新UI，界面简介，重点突出
-2. 仅需轻点几下便能同步/复制文件，操作简单。
+- 全新UI，界面简介，重点突出
+- 仅需轻点几下便能同步/复制文件，操作简单。
 
-- 快速
+### 快速
 
-独立占用内存，同步/复制速度明显快于文件资源管理器。
+- 独立占用内存，同步/复制速度明显快于文件资源管理器。
  
 > [!NOTE]
-> ![Image](https://github.com/user-attachments/assets/c55336f8-1c7e-4f70-a611-33e4b653606d)
+> 对比FastCopy与文件资源管理器 (单位: MB/s)[^1]
+> 
+> ![Image](https://github.com/user-attachments/assets/27d2be24-e750-4085-948e-13382ecc1034)
 
-- 高效
+### 高效
 
-采用文件同步技术，自动跳过相同文件，并使目标文件夹保持最新。
+- 采用文件同步技术，自动跳过相同文件，并使目标文件夹保持最新。
  
 > [!TIP]
-> #### 同步原理
+> 同步原理
 >
 > |源文件夹|目标文件夹|操作|
 > |:-:|:-:|:-:|
@@ -31,16 +33,21 @@ Express 是一款用于文件同步/复制的桌面应用。为方便同学们�
 >
 > *注：通过比较源文件夹与目标文件夹，同步能够始终保持两个文件夹完全相同。*
 
-- 可靠
+### 可靠
 
-内嵌文件校验，保证目标文件夹与源文件夹完全一致。
+- 内嵌文件校验，保证目标文件夹与源文件夹完全一致。
  
 ## 开始使用
 
 ## 常见问题
 
-## 致谢
+## 反馈
 
+## 致谢
+- **[FastCopy](https://fastcopy.jp/)** (The Fastest Copy Software on Windows, Copyright © FastCopy Lab, LLC.)
+- **[PySide6](https://doc.qt.io/qtforpython-6/)** (Qt for Python, Copyright © The Qt Group, GNU Lesser General Public License v.3)
+
+[^1]: 数据来自网络。
 <!--
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
