@@ -85,9 +85,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 <div class="markdown-body" id="postBody"><p>关于这个资源文件的配置，很多资料说用先用Qt Creator写qrc文件，再转成py文件。个人觉得没有这个必要，参考了一下<a href="https://doc.qt.io/qtforpython-6/tutorials/basictutorial/qrcfiles.html" rel="nofollow">官网的教程</a>，这里做一个整理。</p>
 <h2>创建.qrc文件</h2>
-<blockquote>
 <p>新建一个文本文档，把下面的玩意粘贴进去，再把后缀改成qrc。</p>
-</blockquote>
 <div class="highlight highlight-text-html-basic"><pre class="notranslate"><span class="pl-c1">&lt;!DOCTYPE RCC<span class="pl-kos">&gt;</span></span><span class="pl-kos">&lt;</span><span class="pl-ent">RCC</span> <span class="pl-c1">version</span>="<span class="pl-s">1.0</span>"<span class="pl-kos">&gt;</span>
 <span class="pl-kos">&lt;</span><span class="pl-ent">qresource</span> <span class="pl-c1">prefix</span>="<span class="pl-s">/</span>"<span class="pl-kos">&gt;</span>
    <span class="pl-kos">&lt;</span><span class="pl-ent">file</span><span class="pl-kos">&gt;</span>icon.png<span class="pl-kos">&lt;/</span><span class="pl-ent">file</span><span class="pl-kos">&gt;</span>
@@ -98,18 +96,13 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 prefix是前缀，这里不建议改成别的。</p>
 </div>
 <h2>转成.py文件</h2>
-<blockquote>
 <p>在cmd中打开刚才目录的位置（用cd命令或者在文件资源管理器中打开，地址栏输入cmd回车），输入</p>
-</blockquote>
 <div class="highlight highlight-source-shell"><pre class="notranslate">pyside6-rcc 文件名.qrc -o 文件名.py</pre></div>
 <div class="markdown-alert markdown-alert-note"><p class="markdown-alert-title"><svg class="octicon octicon-info mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg>Note</p><p><code class="notranslate">pyside6-rcc</code>实际上就是<code class="notranslate">rcc -g python</code>。</p>
 </div>
 <h2>引用</h2>
-<blockquote>
 <p>之后<code class="notranslate">import 文件名.py</code>，在主程序中用<code class="notranslate">":/icon.png"</code>就能定位到资源，比如设置窗口图标，写法如下：</p>
-</blockquote>
-<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-s1">self</span>.<span class="pl-c1">setWindowIcon</span>(<span class="pl-en">QIcon</span>(<span class="pl-s">":/icon.png"</span>)) </pre></div>
-</div>
+<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-s1">self</span>.<span class="pl-c1">setWindowIcon</span>(<span class="pl-en">QIcon</span>(<span class="pl-s">":/icon.png"</span>)) </pre></div></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
 </div>
