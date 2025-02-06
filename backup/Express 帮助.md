@@ -14,7 +14,7 @@ Express 是一款用于文件同步/复制的桌面应用。为方便同学们�
 - 独立占用内存，同步/复制速度明显快于文件资源管理器。
  
 > [!NOTE]
-> 对比FastCopy与文件资源管理器 (单位: MB/s)[^1]
+> 对比`FastCopy`与`文件资源管理器` (单位: MB/s)[^1]
 > 
 > ![Image](https://github.com/user-attachments/assets/27d2be24-e750-4085-948e-13382ecc1034)
 > *注：数据来自网络。*
