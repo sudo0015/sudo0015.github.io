@@ -1,4 +1,13 @@
-- **名称**: [BUG STUDIO](https://sudo0015.github.io)
-- **创建人**: Sudo (<sudobash@qq.com>)
-- **成立时间**: 2023年秋天
-- **格言**: Do small things with great love.
+- Welcome to BUG STUDIO!
+
+- **NAME**: BUG STUDIO
+
+- **ESTABLISHED TIME**: 2024.10
+
+- **MEMBER**: sudo0015 <sudobash@qq.com-
+
+- **WEBSITE**: https://sudo0015.github.io/
+
+- **MOTTO**: Do small things with great love.
+
+- **REALM**: GUI developing, desktop application developing, 2D design, multimedia authoring, classical music, etc.
