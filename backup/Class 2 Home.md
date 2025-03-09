@@ -24,6 +24,9 @@
 - **信技`选`**：作业本。
 - **通技`选`**：作业本。
 
+> [!WARNING]
+> *作业可能不完整，请以老师要求为准。*
+
 ## 通知
 - 月考安排
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
