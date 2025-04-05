@@ -1,4 +1,4 @@
-- Welcome to BUG STUDIO!
+## Welcome to BUG STUDIO!
 
 - **NAME**: BUG STUDIO
 
@@ -10,4 +10,4 @@
 
 - **MOTTO**: Do small things with great love.
 
-- **REALM**: GUI developing, desktop application developing, 2D design, multimedia authoring, classical music, etc.
+- **REALM**: GUI developing, desktop application developing, 2D design,classical music, etc.
