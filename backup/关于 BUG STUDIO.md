@@ -2,9 +2,9 @@
 
 - **NAME**: BUG STUDIO
 
-- **ESTABLISHED TIME**: 2024.10
+- **ESTABLISHED TIME**: 2023.10
 
-- **MEMBER**: sudo0015 <sudobash@qq.com-
+- **MEMBER**: sudo0015 <<sudobash@qq.com>>
 
 - **WEBSITE**: https://sudo0015.github.io/
 
