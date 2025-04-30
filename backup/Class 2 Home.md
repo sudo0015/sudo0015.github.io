@@ -1,4 +1,4 @@
-`课件&作业&通知` `2025/4/25更新`
+`课件&作业&通知` `2025/4/30更新`
 
 ## 课件
 **[在百度网盘中打开](https://pan.baidu.com/s/14VBuFbPU6buK3F1ZHeRzpw)**
@@ -16,21 +16,396 @@
 > *考虑到隐私保护，此链接将不再自动填充提取码，提取码请到群内查看。*
 
 ## 作业
-- **语文**：作业本至翻译；弹性。
-- **数学**：作业本。
-- **英语**：弹性（不交）。
-- **物理`选`**：课时。
-- **化学`选`**：作业本。
+- **语文**：卷；背《兰亭集序》；看作文，做摘记；复习备考。
+- **数学**：课时；卷。
+- **英语**：报纸2张（第5期订正好，第6期涂卡）；弹性（交）。
+- **物理`选`**：卷；小本；大本。
+- **化学`选`**：卷。
 - **生物`选`**：卷。
-- **地理`选`**：整理。
-- **信技`选`**：作业本。
+- **政治`选`**：卷；课时。
+- **地理`选`**：卷；整理。
 - **通技`选`**：卷。
+- **信技`选`**：作业本
+- **信技`学`**：卷2张。
+- **通技`学`**：卷2张。
 
 > [!WARNING]
 > *作业可能不完整，请以老师要求为准。*
 
 ## 通知
 
-- 五一前后安排
+### 五一前后安排
 
 <table class="tableInArticleByCode tableInArticle" border="1" cellspacing="0" style="border-right: none; border-bottom: none; border-image: initial; border-left: 1px solid rgb(102, 102, 102); border-top: 1px solid rgb(102, 102, 102);" width="629"><tbody><tr style="height:29px" class="firstRow"><td width="149" valign="center" style="border-width: 1px; border-color: windowtext rgb(102, 102, 102) rgb(102, 102, 102) windowtext; border-bottom-style: solid; border-right-style: solid; padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center;line-height:150%"><span style="font-family:仿宋;line-height:150%;font-size:19px">时间</span></p></td><td width="273" valign="center" style="border-width: 1px; border-color: windowtext rgb(102, 102, 102) rgb(102, 102, 102) windowtext; border-bottom-style: solid; border-right-style: solid; padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center;line-height:150%"><span style="font-family:仿宋;line-height:150%;font-size:19px">课务安排</span></p></td><td width="208" valign="center" style="border-width: 1px; border-color: windowtext rgb(102, 102, 102) rgb(102, 102, 102) windowtext; border-bottom-style: solid; border-right-style: solid; padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center;line-height:150%"><span style="font-family:仿宋;line-height:150%;font-size:19px">备注</span></p></td></tr><tr style="height:48px"><td width="149" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">4月21日—24日</span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">（周一至周四）</span></p></td><td width="273" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按周一至周四正常课表、正常作息上课或考试（高三、联培班）</span></p></td><td width="208" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按周一至周四晚办公</span></p></td></tr><tr style="height:34px"><td width="149" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">4月25日</span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">（周五）</span></p></td><td width="273" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px"></span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style=";font-family:仿宋;font-size:16px">1.联培班、高二高三年级按周六临时课表临时作息上课</span></p><p><span style=";font-family:仿宋;font-size:16px">2.高一年级按临时课表（语数英）临时作息上课，课后家长会</span></p></td><td width="208" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">课后学生放假</span></p></td></tr><tr style="height:29px"><td width="149" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">4月26日</span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">（周六）</span></p></td><td width="273" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按年级要求下午返校</span></p></td><td width="208" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按周日晚办公</span></p></td></tr><tr style="height:38px"><td width="149" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style="margin-top:0;text-indent:0;text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">4月27日</span></p><p style="margin-top:0;text-indent:0;text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">（周日）</span></p></td><td width="273" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style="margin-top:0;text-indent:0;text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按周五正常课表正常作息上课</span></p></td><td width="208" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style="margin-top:0;text-indent:0;text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按周五晚办公</span></p></td></tr><tr style="height:53px"><td width="149" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">4月28日—29日</span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">（周一、周二）</span></p></td><td width="273" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按周一至周二正常课表、正常作息上课</span></p></td><td width="208" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按周一至周二晚办公</span></p></td></tr><tr style="height:38px"><td width="149" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">4月30</span><span style="font-family:仿宋;line-height:150%;font-size:16px">日</span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">（</span><span style="font-family:仿宋;line-height:150%;font-size:16px">周三</span><span style="font-family:仿宋;line-height:150%;font-size:16px">）</span></p></td><td width="273" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按周六临时课表临时作息上课</span></p></td><td width="208" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">课后学生放假</span></p></td></tr><tr style="height:36px"><td width="149" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">5月3日</span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">（周六）</span></p></td><td width="273" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">高三年级按年级要求下午返校</span></p></td><td width="208" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">高三年级按周日晚办公</span></p></td></tr><tr style="height:101px"><td width="149" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">5月4日</span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">（周日）</span></p></td><td width="273" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">1.联培班、高一年级、高二年级按年级要求下午返校</span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">2.高三按周六临时课表上课（当天作息时间见附件）</span></p><p style=";text-autospace:ideograph-numeric;text-align:justify;text-justify:inter-ideograph"><span style="font-family:仿宋;line-height:150%;font-size:16px">3.高三毕业典礼暨成人礼</span></p></td><td width="208" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按周日晚办公</span></p></td></tr><tr style="height:49px"><td width="149" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">5月5日起</span></p><p style=";text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">（周一起）</span></p></td><td width="273" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style="margin-top:0;text-indent:0;text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">各年级按正常课表正常作息上课或考试（高三）</span></p></td><td width="208" valign="center" style="border-left-width: 1px; border-left-color: windowtext; border-top: none; border-bottom: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102); padding: 5px;"><p style="margin-top:0;text-indent:0;text-autospace:ideograph-numeric;text-align:center"><span style="font-family:仿宋;line-height:150%;font-size:16px">教职工正常上班、晚办公</span></p></td></tr></tbody></table>
+
+### 期末考
+
+<div class="WordSection1" style="layout-grid:15.6pt">
+
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">­</span></p>
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+  <td width="233" colspan="2" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">日期</p>
+  </td>
+  <td width="117" valign="top" style="width:103.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">科目</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">时间</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1">
+  <td width="117" rowspan="3" valign="top" style="width:103.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">6</span>月<span lang="EN-US">25</span>日</p>
+  <p class="MsoNormal" align="center" style="text-align:center">星期三</p>
+  </td>
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">上午</p>
+  </td>
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">语文</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">9:00-11:30</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td width="117" rowspan="2" valign="top" style="width:103.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">下午</p>
+  </td>
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">数学</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">13:30-15:30</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3">
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">政治</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">16:00-17:30</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4">
+  <td width="117" rowspan="4" valign="top" style="width:103.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">6</span>月<span lang="EN-US">26</span>日</p>
+  <p class="MsoNormal" align="center" style="text-align:center">星期四</p>
+  </td>
+  <td width="117" rowspan="2" valign="top" style="width:103.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">上午</p>
+  </td>
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">物理</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">8:00-9:30</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5">
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">技术</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">10:00-11:30</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6">
+  <td width="117" rowspan="2" valign="top" style="width:103.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">下午</p>
+  </td>
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">生物</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">13:30-15:00</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7">
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">历史</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">15:30-17:00</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:8">
+  <td width="117" rowspan="3" valign="top" style="width:103.7pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">6</span>月<span lang="EN-US">27</span>日</p>
+  <p class="MsoNormal" align="center" style="text-align:center">星期五</p>
+  </td>
+  <td width="117" rowspan="2" valign="top" style="width:103.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">上午</p>
+  </td>
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">地理</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">8:00-9:30</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:9">
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">化学</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">10:00-11:30</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes">
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">下午</p>
+  </td>
+  <td width="117" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">英语</p>
+  </td>
+  <td width="122" valign="top" style="width:103.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">13:00-15:00</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">科目</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">范围</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">语文</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">5</span>册教材</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">数学</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">除数列、直线圆的方程、圆锥曲线外全部</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">英语</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">选修<span lang="EN-US">2
+  U4 - </span>选修<span lang="EN-US">3U5</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">政治</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">选必<span lang="EN-US">123
+  + </span>必修<span lang="EN-US">4</span>哲学部分</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">历史</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">高二选必全部内容 <span lang="EN-US">+ </span>纲要上</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">地理</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">同选考</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">物理</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">选修<span lang="EN-US">123
+  + </span>必修<span lang="EN-US">1</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:8">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">化学</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">原理、结构、有机</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:9">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">生物</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">同选考</p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes">
+  <td width="234" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">技术</p>
+  </td>
+  <td width="237" valign="top" style="width:207.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">同选考（信技选修<span lang="EN-US">U1-U3</span>）</p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p></div>
