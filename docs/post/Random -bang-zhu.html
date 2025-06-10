@@ -18,21 +18,30 @@
 
 在开始使用 Random 前需进行配置。长按主按钮或单击托盘图标，在弹出菜单中打开**设置**。
 
-- **人数**设置随机总数。
-- **去重**设置随机数不重复。
-- **主题**更改按钮的主题颜色。
-- **不透明度**更改按钮的不透明度。
-- **缩放**调整设置界面的尺寸。
-- **位置**设置按钮启动时的出现位置。
+- **人数**：更改随机总数。
+- **去重**：设置随机数不重复。
+- **主题**：更改按钮的主题颜色。
+- **不透明度**：更改按钮的不透明度。
+- **缩放**：调整设置界面的尺寸。
+- **开机时启动**：使 Random 在计算机启动时运行。
+- **闲时显示时间**：使 Random 在无需显示随机数时显示时间。
+- **位置**：设置按钮启动时的出现位置。
+- **快捷键**：点击**编辑**按钮，在弹出的对话框中设置快捷键。
+- **恢复默认设置**：重置所有参数为初始值。
+- **开发者选项**：打开配置文件。
+- **帮助**：打开帮助。
+
+> [!WARNING]
+> 在**设置**中所作出的更改将在 Random 重启后生效，可以通过点击**应用**按钮来应用设置。
 
 ## 使用
 
 - 双击桌面图标，启动 Random。
 - 单击主按钮，生成随机数。
-- 长按主按钮或单击托盘图标以唤出右键菜单。
+- 长按主按钮或单击托盘图标以唤出菜单。
 
 > [!TIP]
-> 可以通过快捷键 `Alt + ~` 来快速生成随机数，也可以自定义特定翻页笔的热键实现硬件拓展。
+> 可以自定义特定翻页笔的热键为相应快捷键实现硬件拓展。
 
 ## 反馈
 
@@ -47,21 +56,30 @@
 
 在开始使用 Random 前需进行配置。长按主按钮或单击托盘图标，在弹出菜单中打开**设置**。
 
-- **人数**设置随机总数。
-- **去重**设置随机数不重复。
-- **主题**更改按钮的主题颜色。
-- **不透明度**更改按钮的不透明度。
-- **缩放**调整设置界面的尺寸。
-- **位置**设置按钮启动时的出现位置。
+- **人数**：更改随机总数。
+- **去重**：设置随机数不重复。
+- **主题**：更改按钮的主题颜色。
+- **不透明度**：更改按钮的不透明度。
+- **缩放**：调整设置界面的尺寸。
+- **开机时启动**：使 Random 在计算机启动时运行。
+- **闲时显示时间**：使 Random 在无需显示随机数时显示时间。
+- **位置**：设置按钮启动时的出现位置。
+- **快捷键**：点击**编辑**按钮，在弹出的对话框中设置快捷键。
+- **恢复默认设置**：重置所有参数为初始值。
+- **开发者选项**：打开配置文件。
+- **帮助**：打开帮助。
+
+> [!WARNING]
+> 在**设置**中所作出的更改将在 Random 重启后生效，可以通过点击**应用**按钮来应用设置。
 
 ## 使用
 
 - 双击桌面图标，启动 Random。
 - 单击主按钮，生成随机数。
-- 长按主按钮或单击托盘图标以唤出右键菜单。
+- 长按主按钮或单击托盘图标以唤出菜单。
 
 > [!TIP]
-> 可以通过快捷键 `Alt + ~` 来快速生成随机数，也可以自定义特定翻页笔的热键实现硬件拓展。
+> 可以自定义特定翻页笔的热键为相应快捷键实现硬件拓展。
 
 ## 反馈
 
@@ -97,7 +115,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 }
 
 </style>
-<style>.markdown-alert{padding:0.5rem 1rem;margin-bottom:1rem;border-left:.25em solid var(--borderColor-default,var(--color-border-default));}.markdown-alert .markdown-alert-title {display:flex;font-weight:var(--base-text-weight-medium,500);align-items:center;line-height:1;}.markdown-alert>:first-child {margin-top:0;}.markdown-alert>:last-child {margin-bottom:0;}</style><style>.markdown-alert.markdown-alert-tip {border-left-color:var(--borderColor-success-emphasis, var(--color-success-emphasis));background-color:var(--color-success-subtle);}.markdown-alert.markdown-alert-tip .markdown-alert-title {color: var(--fgColor-success,var(--color-success-fg));}</style>
+<style>.markdown-alert{padding:0.5rem 1rem;margin-bottom:1rem;border-left:.25em solid var(--borderColor-default,var(--color-border-default));}.markdown-alert .markdown-alert-title {display:flex;font-weight:var(--base-text-weight-medium,500);align-items:center;line-height:1;}.markdown-alert>:first-child {margin-top:0;}.markdown-alert>:last-child {margin-bottom:0;}</style><style>.markdown-alert.markdown-alert-tip {border-left-color:var(--borderColor-success-emphasis, var(--color-success-emphasis));background-color:var(--color-success-subtle);}.markdown-alert.markdown-alert-tip .markdown-alert-title {color: var(--fgColor-success,var(--color-success-fg));}</style><style>.markdown-alert.markdown-alert-warning {border-left-color:var(--borderColor-attention-emphasis, var(--color-attention-emphasis));background-color:var(--color-attention-subtle);}.markdown-alert.markdown-alert-warning .markdown-alert-title {color: var(--fgColor-attention,var(--color-attention-fg));}</style>
 
 
 
@@ -132,20 +150,28 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <h2>配置</h2>
 <p>在开始使用 Random 前需进行配置。长按主按钮或单击托盘图标，在弹出菜单中打开<strong>设置</strong>。</p>
 <ul>
-<li><strong>人数</strong>设置随机总数。</li>
-<li><strong>去重</strong>设置随机数不重复。</li>
-<li><strong>主题</strong>更改按钮的主题颜色。</li>
-<li><strong>不透明度</strong>更改按钮的不透明度。</li>
-<li><strong>缩放</strong>调整设置界面的尺寸。</li>
-<li><strong>位置</strong>设置按钮启动时的出现位置。</li>
+<li><strong>人数</strong>：更改随机总数。</li>
+<li><strong>去重</strong>：设置随机数不重复。</li>
+<li><strong>主题</strong>：更改按钮的主题颜色。</li>
+<li><strong>不透明度</strong>：更改按钮的不透明度。</li>
+<li><strong>缩放</strong>：调整设置界面的尺寸。</li>
+<li><strong>开机时启动</strong>：使 Random 在计算机启动时运行。</li>
+<li><strong>闲时显示时间</strong>：使 Random 在无需显示随机数时显示时间。</li>
+<li><strong>位置</strong>：设置按钮启动时的出现位置。</li>
+<li><strong>快捷键</strong>：点击<strong>编辑</strong>按钮，在弹出的对话框中设置快捷键。</li>
+<li><strong>恢复默认设置</strong>：重置所有参数为初始值。</li>
+<li><strong>开发者选项</strong>：打开配置文件。</li>
+<li><strong>帮助</strong>：打开帮助。</li>
 </ul>
+<div class="markdown-alert markdown-alert-warning"><p class="markdown-alert-title"><svg class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>Warning</p><p>在<strong>设置</strong>中所作出的更改将在 Random 重启后生效，可以通过点击<strong>应用</strong>按钮来应用设置。</p>
+</div>
 <h2>使用</h2>
 <ul>
 <li>双击桌面图标，启动 Random。</li>
 <li>单击主按钮，生成随机数。</li>
-<li>长按主按钮或单击托盘图标以唤出右键菜单。</li>
+<li>长按主按钮或单击托盘图标以唤出菜单。</li>
 </ul>
-<div class="markdown-alert markdown-alert-tip"><p class="markdown-alert-title"><svg class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Tip</p><p>可以通过快捷键 <code class="notranslate">Alt + ~</code> 来快速生成随机数，也可以自定义特定翻页笔的热键实现硬件拓展。</p>
+<div class="markdown-alert markdown-alert-tip"><p class="markdown-alert-title"><svg class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Tip</p><p>可以自定义特定翻页笔的热键为相应快捷键实现硬件拓展。</p>
 </div>
 <h2>反馈</h2>
 <p>若在使用过程中发现问题，或希望提出建议，请向电教办老师反馈，或来找我本人。</p></div>
