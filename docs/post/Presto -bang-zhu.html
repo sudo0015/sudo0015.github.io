@@ -156,6 +156,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </ul>
 <h2>配置</h2>
 <p>在开始使用 Presto 前需进行配置。双击桌面图标，在右上角打开<strong>设置</strong>。</p>
+<h3>源</h3>
 <ul>
 <li><strong>源文件夹</strong>设置文件夹的来源（云上春晖/自定义）。</li>
 <li>若选择了<strong>云上春晖</strong>，点击<strong>选择文件夹</strong>，选择云上春晖中的班级文件夹。</li>
@@ -167,16 +168,37 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </ul>
 <div class="markdown-alert markdown-alert-tip"><p class="markdown-alert-title"><svg class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Tip</p><p>建议将学科文件夹以学科命名。</p>
 </div>
+<h3>行为与性能</h3>
 <ul>
+<li><strong>开机时启动</strong>使 Presto 跟随系统启动。</li>
+<li><strong>完成后通知</strong>任务完成后以 Windows 通知形式提醒。</li>
 <li><strong>扫描周期</strong>设置 Presto U盘检测进程 在后台扫描驱动器插入的时间间隔。</li>
 <li><strong>并行进程数</strong>设置允许同时进行的任务数，若已达到任务上限，后续任务将等待现有任务完成。</li>
 <li><strong>缓冲区大小</strong>设置同步/复制任务的最大缓冲区大小，缓冲区越大，速度越快。</li>
 </ul>
 <div class="markdown-alert markdown-alert-warning"><p class="markdown-alert-title"><svg class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>Warning</p><p>过大的并行进程数与缓冲区大小会导致系统卡顿，甚至文件资源管理器的崩溃。</p>
 </div>
+<h3>文件过滤</h3>
 <ul>
-<li><strong>清除缓存</strong>用于清除缓存文件与日志文件。</li>
+<li><strong>跳过空文件夹</strong>不复制空文件夹及过滤后为空的文件夹。</li>
+<li><strong>大小过滤</strong>根据文件体积，过滤大于指定大小的文件。展开选项卡以设置最大文件大小，可选择 KB、MB、GB 作为单位。</li>
+<li><strong>类型过滤</strong>排除或包含指定类型的文件。展开选项卡以设置过滤模式（排除/包含）以及文件类型。
+<ul>
+<li>排除模式将不复制所有指定类型的文件；包含模式将仅复制指定类型的文件。</li>
+<li>可通过点击<strong>编辑</strong>在弹出对话框中自定义文件类型（例如：<code class="notranslate">.db</code>数据库文件，<code class="notranslate">.lnk</code>快捷方式）。<strong>添加文件类型</strong>可增添新的条目，点击编辑框中的<code class="notranslate">√</code>以确认更改，点击<strong>保存</strong>以保存自定义的文件类型。</li>
 </ul>
+</li>
+</ul>
+<div class="markdown-alert markdown-alert-warning"><p class="markdown-alert-title"><svg class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>Warning</p><p>文件过滤选项会对所有任务产生直接而现实的影响。</p>
+</div>
+<h3>存储与高级</h3>
+<ul>
+<li><strong>清除缓存</strong>清除缓存文件与日志文件。</li>
+<li><strong>恢复默认设置</strong>重置所有设置为初始值。</li>
+<li><strong>开发者选项</strong>打开配置文件。</li>
+</ul>
+<div class="markdown-alert markdown-alert-warning"><p class="markdown-alert-title"><svg class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>Warning</p><p>随意修改配置文件可能导致程序异常，请谨慎操作。</p>
+</div>
 <h2>使用</h2>
 <ul>
 <li>在<strong>U盘扫描进程</strong>开启状态下，插入U盘，将自动弹出U盘弹窗，点击<strong>同步</strong>以进入<strong>学科与模式选择</strong>界面。</li>
@@ -186,15 +208,19 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <ul>
 <li>
 <p>在<strong>学科与模式选择界面</strong>，在选择需要同步/复制的学科后，点击<strong>执行同步</strong>以开始任务。默认模式为<strong>同步</strong>，也可根据个人需要，在下拉菜单中选择其他模式：<strong>同步（低占用）</strong>、<strong>复制（最近文件）</strong>、<strong>复制（从时间戳）</strong>，功能如下：</p>
-<ol>
+<ul>
 <li><strong>同步（低占用）</strong> 会在任务进行过程中优先其他应用程序的IO，适用于需长时间同步又需保证系统流畅运行的情况；</li>
 <li><strong>复制（最近文件）</strong> 可以选择性地复制最近若干天的文件，适用于只需要最近文件且不希望占用U盘太多空间的情况。可以在<strong>确定</strong>时选择<strong>删除原有文件</strong>以进一步减少空间占用；</li>
 <li><strong>复制（从时间戳）</strong> 可以选择性地复制某一段时间范围内的文件，其余功能同<strong>复制（最近文件）</strong>。</li>
-</ol>
+</ul>
 </li>
 <li>
 <p>在执行后，将弹出进度窗口，显示当前任务的进度。每同步/复制一个学科文件夹更新一次进度，届时可能出现进度条卡顿的情况，属正常现象。</p>
 </li>
+</ul>
+<div class="markdown-alert markdown-alert-important"><p class="markdown-alert-title"><svg class="octicon octicon-report mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>Important</p><p>相关安全软件可能会阻止 Presto 读写磁盘保留扇区，请允许操作。</p>
+</div>
+<ul>
 <li>
 <p>任务完成后，点击<strong>查看</strong>以打开已完成同步/复制的文件夹，或点击<strong>退出U盘</strong>快速退出驱动器。若无操作，窗口将在10秒后自动关闭。</p>
 </li>
