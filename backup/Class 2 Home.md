@@ -8,7 +8,7 @@
 
 ## 开幕式音乐
 
-[点击此处下载《恋爱告急》](https://gitcode.com/sudo0015/sudo0015/blob/main/music.mp3)
+[点击此处下载《恋爱告急》](https://raw.gitcode.com/sudo0015/sudo0015/blobs/6ba730fd3a9a64c78d19e2299545da5dc77e2478/music.mp3)
 
 ## 作业
 - 暂无
