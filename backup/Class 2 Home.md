@@ -3,13 +3,13 @@
 ## 课件
 **[在百度网盘中打开](https://pan.baidu.com/s/14VBuFbPU6buK3F1ZHeRzpw)**
 
-> [!IMPORTANT]
-> *考虑到隐私保护，此链接将不再自动填充提取码，提取码请到群内查看。*
-
 <details>
 <summary>展开广告</summary>
-<p>此次同步由最新版 Presto 完成。Presto v7.3.2 新增了文件过滤功能，可以更优雅地同步每一个细节而跳过无需的项目（电影、数据库文件等）。</p>
+<p>此次同步由最新版 Presto 完成。Presto v7.3.2 新增了文件过滤功能，可以更优雅地同步每一个细节而跳过无需的项目（电影、数据库文件等）。如果你喜欢，在GitHub上为<a href="https://github.com/sudo0015/presto" rel="nofollow">这个项目</a>点个小星星呗~</p>
 </details>
+
+> [!IMPORTANT]
+> *考虑到隐私保护，此链接将不再自动填充提取码，提取码请到群内查看。*
 
 ## 作业
 - **语文**：卷；摘记；背《滕王阁序》。
@@ -28,4 +28,6 @@
 > *作业可能不完整，请以老师要求为准。*
 
 ## 通知
-- 暂无
+- 国庆放假安排
+
+<img width="1100" height="1517" alt="Image" src="https://github.com/user-attachments/assets/59f9d788-6809-4ce7-bcc1-dba6390d34c3" />
