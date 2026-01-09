@@ -25,7 +25,7 @@
 <meta property="og:url" content="https://sudo0015.github.io/post/PySide-PyQt-shi-xian-quan-ju-re-jian.html">
 <meta property="og:image" content="data:image/png;base64,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">
 <title>PySide/PyQt实现全局热键</title>
-<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
 
 
 </head>
@@ -49,17 +49,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     body {padding: 8px;}
     .postTitle{font-size:24px;}
 }
-.copy-feedback {
-    display: none;
-    position: absolute;
-    top: 10px;
-    right: 50px;
-    color: var(--color-fg-on-emphasis);
-    background-color: var(--color-fg-muted);
-    border-radius: 3px;
-    padding: 5px 8px;
-    font-size: 12px;
-}
+
 </style>
 <style>.markdown-alert{padding:0.5rem 1rem;margin-bottom:1rem;border-left:.25em solid var(--borderColor-default,var(--color-border-default));}.markdown-alert .markdown-alert-title {display:flex;font-weight:var(--base-text-weight-medium,500);align-items:center;line-height:1;}.markdown-alert>:first-child {margin-top:0;}.markdown-alert>:last-child {margin-bottom:0;}</style><style>.markdown-alert.markdown-alert-note {border-left-color:var(--borderColor-accent-emphasis, var(--color-accent-emphasis));background-color:var(--color-accent-subtle);}.markdown-alert.markdown-alert-note .markdown-alert-title {color: var(--fgColor-accent,var(--color-accent-fg));}</style><style>.markdown-alert.markdown-alert-important {border-left-color:var(--borderColor-done-emphasis, var(--color-done-emphasis));background-color:var(--color-done-subtle);}.markdown-alert.markdown-alert-important .markdown-alert-title {color: var(--fgColor-done,var(--color-done-fg));}</style>
 
@@ -100,141 +90,149 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <blockquote>
 <p>hotKet.py</p>
 </blockquote>
-<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-k">import</span> <span class="pl-s1">win32con</span>
-<span class="pl-k">from</span> <span class="pl-s1">ctypes</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-s1">ctypes</span>.<span class="pl-s1">wintypes</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-s1">mainwindow</span> <span class="pl-k">import</span> <span class="pl-v">QMThread</span>
-<span class="pl-k">from</span> <span class="pl-v">PyQt5</span>.<span class="pl-v">QtCore</span> <span class="pl-k">import</span> <span class="pl-s1">pyqtSignal</span>
+<pre lang="python" class="notranslate"><code class="notranslate">import win32con
+from ctypes import *
+from ctypes.wintypes import *
+from mainwindow import QMThread
+from PyQt5.QtCore import pyqtSignal
 
-<span class="pl-s1">main_key</span> <span class="pl-c1">=</span> <span class="pl-c1">192</span>
+main_key = 192
 
-<span class="pl-c"># 这里的 QMThread 为自定义的 QThread</span>
-<span class="pl-k">class</span> <span class="pl-v">HotKey</span>(<span class="pl-v">QMThread</span>):
-    <span class="pl-s">"""全局热键监听"""</span>
-    <span class="pl-v">ShowWindow</span> <span class="pl-c1">=</span> <span class="pl-en">pyqtSignal</span>(<span class="pl-s1">int</span>)
+# 这里的 QMThread 为自定义的 QThread
+class HotKey(QMThread):
+    """全局热键监听"""
+    ShowWindow = pyqtSignal(int)
 
-    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>):
-        <span class="pl-en">super</span>(<span class="pl-v">HotKey</span>, <span class="pl-s1">self</span>).<span class="pl-c1">__init__</span>()
+    def __init__(self):
+        super(HotKey, self).__init__()
 
-        <span class="pl-s1">self</span>.<span class="pl-c1">main_key</span> <span class="pl-c1">=</span> <span class="pl-c1">192</span>
+        self.main_key = 192
 
-    <span class="pl-k">def</span> <span class="pl-en">run</span>(<span class="pl-s1">self</span>):
-        <span class="pl-s">""" 监听 windows 快捷键使用 """</span>
+    def run(self):
+        """ 监听 windows 快捷键使用 """
 
-        <span class="pl-s1">user32</span> <span class="pl-c1">=</span> <span class="pl-s1">windll</span>.<span class="pl-c1">user32</span>
+        user32 = windll.user32
 
-        <span class="pl-k">while</span> <span class="pl-c1">True</span>:
-            <span class="pl-k">if</span> <span class="pl-c1">not</span> <span class="pl-s1">user32</span>.<span class="pl-c1">RegisterHotKey</span>(<span class="pl-c1">None</span>, <span class="pl-c1">1</span>, <span class="pl-s1">win32con</span>.<span class="pl-c1">MOD_ALT</span>, <span class="pl-s1">self</span>.<span class="pl-c1">main_key</span>):  <span class="pl-c"># alt+~</span>
-                <span class="pl-en">print</span>(<span class="pl-s">'Unable to register id'</span>, <span class="pl-s1">self</span>.<span class="pl-c1">key_num</span>, <span class="pl-s1">self</span>.<span class="pl-c1">key_num</span> <span class="pl-c1">%</span> <span class="pl-c1">2</span>)
+        while True:
+            if not user32.RegisterHotKey(None, 1, win32con.MOD_ALT, self.main_key):  # alt+~
+                print('Unable to register id', self.key_num, self.key_num % 2)
 
-            <span class="pl-k">try</span>:
-                <span class="pl-s1">msg</span> <span class="pl-c1">=</span> <span class="pl-en">MSG</span>()
+            try:
+                msg = MSG()
 
-                <span class="pl-k">if</span> <span class="pl-s1">user32</span>.<span class="pl-c1">GetMessageA</span>(<span class="pl-en">byref</span>(<span class="pl-s1">msg</span>), <span class="pl-c1">None</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>) <span class="pl-c1">!=</span> <span class="pl-c1">0</span>:
-                    <span class="pl-en">print</span>(<span class="pl-s">'2222222'</span>, <span class="pl-s1">msg</span>.<span class="pl-c1">message</span>, <span class="pl-s1">win32con</span>.<span class="pl-c1">WM_HOTKEY</span>)
-                    <span class="pl-k">if</span> <span class="pl-s1">msg</span>.<span class="pl-c1">message</span> <span class="pl-c1">==</span> <span class="pl-s1">win32con</span>.<span class="pl-c1">WM_HOTKEY</span>:
-                        <span class="pl-k">if</span> <span class="pl-s1">msg</span>.<span class="pl-c1">wParam</span> <span class="pl-c1">==</span> <span class="pl-s1">win32con</span>.<span class="pl-c1">MOD_ALT</span>:
-                            <span class="pl-s1">self</span>.<span class="pl-c1">ShowWindow</span>.<span class="pl-c1">emit</span>(<span class="pl-s1">msg</span>.<span class="pl-c1">lParam</span>)
+                if user32.GetMessageA(byref(msg), None, 0, 0) != 0:
+                    print('2222222', msg.message, win32con.WM_HOTKEY)
+                    if msg.message == win32con.WM_HOTKEY:
+                        if msg.wParam == win32con.MOD_ALT:
+                            self.ShowWindow.emit(msg.lParam)
 
-            <span class="pl-k">finally</span>:
-                <span class="pl-en">print</span>(<span class="pl-s">'finish'</span>)</pre></div>
+            finally:
+                print('finish')
+
+</code></pre>
 <blockquote>
 <p>mainwindow.py</p>
 </blockquote>
-<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-k">import</span> <span class="pl-s1">sys</span>, <span class="pl-s1">os</span>
-<span class="pl-k">from</span> <span class="pl-v">PyQt5</span>.<span class="pl-v">QtCore</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PyQt5</span>.<span class="pl-v">QtWidgets</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PyQt5</span>.<span class="pl-v">QtGui</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">import</span> <span class="pl-s1">hotKey</span>
+<pre lang="python" class="notranslate"><code class="notranslate">import sys, os
+from PyQt5.QtCore import *
+from PyQt5.QtWidgets import *
+from PyQt5.QtGui import *
+import hotKey
 
-<span class="pl-k">class</span> <span class="pl-v">UUMainWindow</span>(<span class="pl-v">QWidget</span>):
-    <span class="pl-s">"""主窗口页面"""</span>
-    <span class="pl-v">ShowWindow</span> <span class="pl-c1">=</span> <span class="pl-en">pyqtSignal</span>(<span class="pl-s1">int</span>)
+class UUMainWindow(QWidget):
+    """主窗口页面"""
+    ShowWindow = pyqtSignal(int)
 
-    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>, <span class="pl-s1">parent</span><span class="pl-c1">=</span><span class="pl-c1">None</span>):
-        <span class="pl-en">super</span>(<span class="pl-v">UUMainWindow</span>, <span class="pl-s1">self</span>).<span class="pl-c1">__init__</span>(<span class="pl-s1">parent</span>)
+    def __init__(self, parent=None):
+        super(UUMainWindow, self).__init__(parent)
 
-        <span class="pl-s1">self</span>.<span class="pl-c1">setWindowTitle</span>(<span class="pl-s">'主页面'</span>)
-        <span class="pl-s1">self</span>.<span class="pl-c1">setGeometry</span>(<span class="pl-c1">300</span>, <span class="pl-c1">100</span>, <span class="pl-c1">1300</span>, <span class="pl-c1">800</span>)
+        self.setWindowTitle('主页面')
+        self.setGeometry(300, 100, 1300, 800)
       
-    <span class="pl-k">def</span> <span class="pl-en">hot_key_event</span>(<span class="pl-s1">self</span>, <span class="pl-s1">data</span>):
-        <span class="pl-s">"""热键处理函数"""</span>
-        <span class="pl-k">if</span> <span class="pl-s1">data</span> <span class="pl-c1">==</span> <span class="pl-c1">12582913</span>:
-            <span class="pl-k">if</span> <span class="pl-s1">self</span>.<span class="pl-c1">isMinimized</span>():  <span class="pl-c"># 判断窗口是否为最小化</span>
-                <span class="pl-s1">self</span>.<span class="pl-c1">showNormal</span>()   <span class="pl-c"># 如果为最小化, 则恢复正常</span>
-            <span class="pl-k">else</span>:
-                <span class="pl-s1">self</span>.<span class="pl-c1">showMinimized</span>()  <span class="pl-c"># 将窗口设置为最小化</span>
+    def hot_key_event(self, data):
+        """热键处理函数"""
+        if data == 12582913:
+            if self.isMinimized():  # 判断窗口是否为最小化
+                self.showNormal()   # 如果为最小化, 则恢复正常
+            else:
+                self.showMinimized()  # 将窗口设置为最小化
 
 
-<span class="pl-k">if</span> <span class="pl-s1">__name__</span> <span class="pl-c1">==</span> <span class="pl-s">'__main__'</span>:
-    <span class="pl-s1">app</span> <span class="pl-c1">=</span> <span class="pl-en">QApplication</span>(<span class="pl-s1">sys</span>.<span class="pl-c1">argv</span>)
-    <span class="pl-s1">main</span> <span class="pl-c1">=</span> <span class="pl-en">UUMainWindow</span>()
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    main = UUMainWindow()
 
-    <span class="pl-s1">hot_key</span> <span class="pl-c1">=</span> <span class="pl-s1">hotKey</span>.<span class="pl-c1">HotKey</span>()
-    <span class="pl-s1">hot_key</span>.<span class="pl-c1">ShowWindow</span>.<span class="pl-c1">connect</span>(<span class="pl-s1">main</span>.<span class="pl-c1">hot_key_event</span>)
+    hot_key = hotKey.HotKey()
+    hot_key.ShowWindow.connect(main.hot_key_event)
 
-    <span class="pl-s1">hot_key</span>.<span class="pl-c1">start</span>()  <span class="pl-c"># 开启热键监听的线程</span>
+    hot_key.start()  # 开启热键监听的线程
 
-    <span class="pl-s1">main</span>.<span class="pl-c1">show</span>()
-    <span class="pl-s1">sys</span>.<span class="pl-c1">exit</span>(<span class="pl-s1">app</span>.<span class="pl-c1">exec_</span>())</pre></div>
+    main.show()
+    sys.exit(app.exec_())
+
+</code></pre>
 <p>这篇博文给我提供了一个思路：写一个hotKey.py，里面再开一个线程，再把信号绑定，不就可以了吗？但上面的代码有明显的问题：<code class="notranslate">from mainwindow import QMThread</code>是什么鬼？<code class="notranslate">QTread</code>吧。再把PyQt改成PySide（个人习惯），加一个Messagebox，代码如下：</p>
 <blockquote>
 <p>hotKey.py</p>
 </blockquote>
-<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-k">import</span> <span class="pl-s1">win32con</span>
-<span class="pl-k">from</span> <span class="pl-s1">ctypes</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-s1">ctypes</span>.<span class="pl-s1">wintypes</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtCore</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtGui</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtWidgets</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">import</span> <span class="pl-s1">tkinter</span>.<span class="pl-s1">messagebox</span>
-<span class="pl-s1">main_key</span> <span class="pl-c1">=</span> <span class="pl-c1">192</span>
-<span class="pl-k">class</span> <span class="pl-v">HotKey</span>(<span class="pl-v">QThread</span>):
-    <span class="pl-v">ShowWindow</span> <span class="pl-c1">=</span> <span class="pl-en">Signal</span>(<span class="pl-s1">int</span>)
-    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>):
-        <span class="pl-en">super</span>(<span class="pl-v">HotKey</span>, <span class="pl-s1">self</span>).<span class="pl-c1">__init__</span>()
-        <span class="pl-s1">self</span>.<span class="pl-c1">main_key</span> <span class="pl-c1">=</span> <span class="pl-c1">192</span>
-    <span class="pl-k">def</span> <span class="pl-en">run</span>(<span class="pl-s1">self</span>):
-        <span class="pl-s1">user32</span> <span class="pl-c1">=</span> <span class="pl-s1">windll</span>.<span class="pl-c1">user32</span>
-        <span class="pl-k">while</span> <span class="pl-c1">True</span>:
-            <span class="pl-k">if</span> <span class="pl-c1">not</span> <span class="pl-s1">user32</span>.<span class="pl-c1">RegisterHotKey</span>(<span class="pl-c1">None</span>, <span class="pl-c1">1</span>, <span class="pl-s1">win32con</span>.<span class="pl-c1">MOD_ALT</span>, <span class="pl-s1">self</span>.<span class="pl-c1">main_key</span>):  <span class="pl-c"># alt+~</span>
-                <span class="pl-s1">tkinter</span>.<span class="pl-c1">messagebox</span>.<span class="pl-c1">showerror</span>(<span class="pl-s">"错误"</span>,<span class="pl-s">"全局热键注册失败。"</span>)
-            <span class="pl-k">try</span>:
-                <span class="pl-s1">msg</span> <span class="pl-c1">=</span> <span class="pl-en">MSG</span>()
-                <span class="pl-k">if</span> <span class="pl-s1">user32</span>.<span class="pl-c1">GetMessageA</span>(<span class="pl-en">byref</span>(<span class="pl-s1">msg</span>), <span class="pl-c1">None</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>) <span class="pl-c1">!=</span> <span class="pl-c1">0</span>:
-                    <span class="pl-k">if</span> <span class="pl-s1">msg</span>.<span class="pl-c1">message</span> <span class="pl-c1">==</span> <span class="pl-s1">win32con</span>.<span class="pl-c1">WM_HOTKEY</span>:
-                        <span class="pl-k">if</span> <span class="pl-s1">msg</span>.<span class="pl-c1">wParam</span> <span class="pl-c1">==</span> <span class="pl-s1">win32con</span>.<span class="pl-c1">MOD_ALT</span>:
-                            <span class="pl-s1">self</span>.<span class="pl-c1">ShowWindow</span>.<span class="pl-c1">emit</span>(<span class="pl-s1">msg</span>.<span class="pl-c1">lParam</span>)
-            <span class="pl-k">finally</span>:
-                <span class="pl-en">print</span>(<span class="pl-s">"success!"</span>)</pre></div>
+<pre lang="python" class="notranslate"><code class="notranslate">import win32con
+from ctypes import *
+from ctypes.wintypes import *
+from PySide6.QtCore import *
+from PySide6.QtGui import *
+from PySide6.QtWidgets import *
+import tkinter.messagebox
+main_key = 192
+class HotKey(QThread):
+    ShowWindow = Signal(int)
+    def __init__(self):
+        super(HotKey, self).__init__()
+        self.main_key = 192
+    def run(self):
+        user32 = windll.user32
+        while True:
+            if not user32.RegisterHotKey(None, 1, win32con.MOD_ALT, self.main_key):  # alt+~
+                tkinter.messagebox.showerror("错误","全局热键注册失败。")
+            try:
+                msg = MSG()
+                if user32.GetMessageA(byref(msg), None, 0, 0) != 0:
+                    if msg.message == win32con.WM_HOTKEY:
+                        if msg.wParam == win32con.MOD_ALT:
+                            self.ShowWindow.emit(msg.lParam)
+            finally:
+                print("success!")
+
+</code></pre>
 <blockquote>
 <p>mainwindow.py</p>
 </blockquote>
-<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-k">import</span> <span class="pl-s1">sys</span>, <span class="pl-s1">os</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtCore</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtWidgets</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtGui</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">import</span> <span class="pl-s1">hotKey</span>
-<span class="pl-k">class</span> <span class="pl-v">UUMainWindow</span>(<span class="pl-v">QWidget</span>):
-    <span class="pl-v">ShowWindow</span> <span class="pl-c1">=</span> <span class="pl-en">Signal</span>(<span class="pl-s1">int</span>)
-    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>, <span class="pl-s1">parent</span><span class="pl-c1">=</span><span class="pl-c1">None</span>):
-        <span class="pl-en">super</span>(<span class="pl-v">UUMainWindow</span>, <span class="pl-s1">self</span>).<span class="pl-c1">__init__</span>(<span class="pl-s1">parent</span>)
-        <span class="pl-s1">self</span>.<span class="pl-c1">setWindowTitle</span>(<span class="pl-s">'主页面'</span>)
-        <span class="pl-s1">self</span>.<span class="pl-c1">setGeometry</span>(<span class="pl-c1">300</span>, <span class="pl-c1">100</span>, <span class="pl-c1">1300</span>, <span class="pl-c1">800</span>)
-    <span class="pl-k">def</span> <span class="pl-en">hot_key_event</span>(<span class="pl-s1">self</span>, <span class="pl-s1">data</span>):
-        <span class="pl-k">if</span> <span class="pl-s1">data</span> <span class="pl-c1">==</span> <span class="pl-c1">12582913</span>:
-            <span class="pl-k">if</span> <span class="pl-s1">self</span>.<span class="pl-c1">isMinimized</span>():
-                <span class="pl-s1">self</span>.<span class="pl-c1">showNormal</span>()
-            <span class="pl-k">else</span>:
-                <span class="pl-s1">self</span>.<span class="pl-c1">showMinimized</span>()
-<span class="pl-k">if</span> <span class="pl-s1">__name__</span> <span class="pl-c1">==</span> <span class="pl-s">'__main__'</span>:
-    <span class="pl-s1">app</span> <span class="pl-c1">=</span> <span class="pl-en">QApplication</span>(<span class="pl-s1">sys</span>.<span class="pl-c1">argv</span>)
-    <span class="pl-s1">main</span> <span class="pl-c1">=</span> <span class="pl-en">UUMainWindow</span>()
-    <span class="pl-s1">hot_key</span> <span class="pl-c1">=</span> <span class="pl-s1">hotKey</span>.<span class="pl-c1">HotKey</span>()
-    <span class="pl-s1">hot_key</span>.<span class="pl-c1">ShowWindow</span>.<span class="pl-c1">connect</span>(<span class="pl-s1">main</span>.<span class="pl-c1">hot_key_event</span>)
-    <span class="pl-s1">hot_key</span>.<span class="pl-c1">start</span>()
-    <span class="pl-s1">main</span>.<span class="pl-c1">show</span>()
-    <span class="pl-s1">sys</span>.<span class="pl-c1">exit</span>(<span class="pl-s1">app</span>.<span class="pl-c1">exec</span>())</pre></div>
+<pre lang="python" class="notranslate"><code class="notranslate">import sys, os
+from PySide6.QtCore import *
+from PySide6.QtWidgets import *
+from PySide6.QtGui import *
+import hotKey
+class UUMainWindow(QWidget):
+    ShowWindow = Signal(int)
+    def __init__(self, parent=None):
+        super(UUMainWindow, self).__init__(parent)
+        self.setWindowTitle('主页面')
+        self.setGeometry(300, 100, 1300, 800)
+    def hot_key_event(self, data):
+        if data == 12582913:
+            if self.isMinimized():
+                self.showNormal()
+            else:
+                self.showMinimized()
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    main = UUMainWindow()
+    hot_key = hotKey.HotKey()
+    hot_key.ShowWindow.connect(main.hot_key_event)
+    hot_key.start()
+    main.show()
+    sys.exit(app.exec())
+
+</code></pre>
 <p>这样的代码看似完美，运行后可以实现窗口对全局热键的响应，但当第二次按下全局热键时：<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c154b3a78e6be1f24c22db25f30fde933774578722135326e1ab8650027b1fe5/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f37663266363265303731393833636337643632613561653162653430306133302e706e67237069635f63656e746572"><img src="https://camo.githubusercontent.com/c154b3a78e6be1f24c22db25f30fde933774578722135326e1ab8650027b1fe5/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f37663266363265303731393833636337643632613561653162653430306133302e706e67237069635f63656e746572" alt="运行截图" data-canonical-src="https://i-blog.csdnimg.cn/blog_migrate/7f2f62e071983cc7d62a5ae1be400a30.png#pic_center" style="max-width: 100%;"></a><br>
 于是我又开始在网上寻找解决方案，当我看到了这篇文章（<a href="https://blog.csdn.net/User287/article/details/131932393" rel="nofollow">Qt PySide2实现全局热键(原生)</a>）时，一切豁然开朗：<strong>不是success之后就万事大吉了，还要把热键注销，不然下一次就注册不了！！！</strong></p>
@@ -244,91 +242,97 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <blockquote>
 <p>hotKey.py</p>
 </blockquote>
-<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-k">import</span> <span class="pl-s1">win32con</span>
-<span class="pl-k">from</span> <span class="pl-s1">ctypes</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-s1">ctypes</span>.<span class="pl-s1">wintypes</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtCore</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtGui</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtWidgets</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">import</span> <span class="pl-s1">tkinter</span>.<span class="pl-s1">messagebox</span>
-<span class="pl-s1">main_key</span> <span class="pl-c1">=</span> <span class="pl-c1">192</span>
-<span class="pl-k">class</span> <span class="pl-v">HotKey</span>(<span class="pl-v">QThread</span>):
-    <span class="pl-v">ShowWindow</span> <span class="pl-c1">=</span> <span class="pl-en">Signal</span>(<span class="pl-s1">int</span>)
-    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>):
-        <span class="pl-en">super</span>(<span class="pl-v">HotKey</span>, <span class="pl-s1">self</span>).<span class="pl-c1">__init__</span>()
-        <span class="pl-s1">self</span>.<span class="pl-c1">main_key</span> <span class="pl-c1">=</span> <span class="pl-c1">192</span>
-    <span class="pl-k">def</span> <span class="pl-en">run</span>(<span class="pl-s1">self</span>):
-        <span class="pl-s1">user32</span> <span class="pl-c1">=</span> <span class="pl-s1">windll</span>.<span class="pl-c1">user32</span>
-        <span class="pl-k">while</span> <span class="pl-c1">True</span>:
-            <span class="pl-k">if</span> <span class="pl-c1">not</span> <span class="pl-s1">user32</span>.<span class="pl-c1">RegisterHotKey</span>(<span class="pl-c1">None</span>, <span class="pl-c1">1</span>, <span class="pl-s1">win32con</span>.<span class="pl-c1">MOD_ALT</span>, <span class="pl-s1">self</span>.<span class="pl-c1">main_key</span>):  <span class="pl-c"># alt+~</span>
-                <span class="pl-s1">tkinter</span>.<span class="pl-c1">messagebox</span>.<span class="pl-c1">showerror</span>(<span class="pl-s">"错误"</span>,<span class="pl-s">"全局热键注册失败。"</span>)
-            <span class="pl-k">try</span>:
-                <span class="pl-s1">msg</span> <span class="pl-c1">=</span> <span class="pl-en">MSG</span>()
-                <span class="pl-k">if</span> <span class="pl-s1">user32</span>.<span class="pl-c1">GetMessageA</span>(<span class="pl-en">byref</span>(<span class="pl-s1">msg</span>), <span class="pl-c1">None</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>) <span class="pl-c1">!=</span> <span class="pl-c1">0</span>:
-                    <span class="pl-k">if</span> <span class="pl-s1">msg</span>.<span class="pl-c1">message</span> <span class="pl-c1">==</span> <span class="pl-s1">win32con</span>.<span class="pl-c1">WM_HOTKEY</span>:
-                        <span class="pl-k">if</span> <span class="pl-s1">msg</span>.<span class="pl-c1">wParam</span> <span class="pl-c1">==</span> <span class="pl-s1">win32con</span>.<span class="pl-c1">MOD_ALT</span>:
-                            <span class="pl-s1">self</span>.<span class="pl-c1">ShowWindow</span>.<span class="pl-c1">emit</span>(<span class="pl-s1">msg</span>.<span class="pl-c1">lParam</span>)
-            <span class="pl-k">finally</span>:
-                <span class="pl-s1">user32</span>.<span class="pl-c1">UnregisterHotKey</span>(<span class="pl-c1">None</span>, <span class="pl-c1">1</span>)</pre></div>
+<pre lang="python" class="notranslate"><code class="notranslate">import win32con
+from ctypes import *
+from ctypes.wintypes import *
+from PySide6.QtCore import *
+from PySide6.QtGui import *
+from PySide6.QtWidgets import *
+import tkinter.messagebox
+main_key = 192
+class HotKey(QThread):
+    ShowWindow = Signal(int)
+    def __init__(self):
+        super(HotKey, self).__init__()
+        self.main_key = 192
+    def run(self):
+        user32 = windll.user32
+        while True:
+            if not user32.RegisterHotKey(None, 1, win32con.MOD_ALT, self.main_key):  # alt+~
+                tkinter.messagebox.showerror("错误","全局热键注册失败。")
+            try:
+                msg = MSG()
+                if user32.GetMessageA(byref(msg), None, 0, 0) != 0:
+                    if msg.message == win32con.WM_HOTKEY:
+                        if msg.wParam == win32con.MOD_ALT:
+                            self.ShowWindow.emit(msg.lParam)
+            finally:
+                user32.UnregisterHotKey(None, 1)
+
+</code></pre>
 <p>此时再运行，OK，完美解决！</p>
 <h2>完整DEMO</h2>
 <blockquote>
 <p>hotKey.py</p>
 </blockquote>
-<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-k">import</span> <span class="pl-s1">win32con</span>
-<span class="pl-k">from</span> <span class="pl-s1">ctypes</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-s1">ctypes</span>.<span class="pl-s1">wintypes</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtCore</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtGui</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtWidgets</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">import</span> <span class="pl-s1">tkinter</span>.<span class="pl-s1">messagebox</span>
-<span class="pl-s1">main_key</span> <span class="pl-c1">=</span> <span class="pl-c1">192</span>
-<span class="pl-k">class</span> <span class="pl-v">HotKey</span>(<span class="pl-v">QThread</span>):
-    <span class="pl-v">ShowWindow</span> <span class="pl-c1">=</span> <span class="pl-en">Signal</span>(<span class="pl-s1">int</span>)
-    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>):
-        <span class="pl-en">super</span>(<span class="pl-v">HotKey</span>, <span class="pl-s1">self</span>).<span class="pl-c1">__init__</span>()
-        <span class="pl-s1">self</span>.<span class="pl-c1">main_key</span> <span class="pl-c1">=</span> <span class="pl-c1">192</span>
-    <span class="pl-k">def</span> <span class="pl-en">run</span>(<span class="pl-s1">self</span>):
-        <span class="pl-s1">user32</span> <span class="pl-c1">=</span> <span class="pl-s1">windll</span>.<span class="pl-c1">user32</span>
-        <span class="pl-k">while</span> <span class="pl-c1">True</span>:
-            <span class="pl-k">if</span> <span class="pl-c1">not</span> <span class="pl-s1">user32</span>.<span class="pl-c1">RegisterHotKey</span>(<span class="pl-c1">None</span>, <span class="pl-c1">1</span>, <span class="pl-s1">win32con</span>.<span class="pl-c1">MOD_ALT</span>, <span class="pl-s1">self</span>.<span class="pl-c1">main_key</span>):  <span class="pl-c"># alt+~</span>
-                <span class="pl-s1">tkinter</span>.<span class="pl-c1">messagebox</span>.<span class="pl-c1">showerror</span>(<span class="pl-s">"错误"</span>,<span class="pl-s">"全局热键注册失败。"</span>)
-            <span class="pl-k">try</span>:
-                <span class="pl-s1">msg</span> <span class="pl-c1">=</span> <span class="pl-en">MSG</span>()
-                <span class="pl-k">if</span> <span class="pl-s1">user32</span>.<span class="pl-c1">GetMessageA</span>(<span class="pl-en">byref</span>(<span class="pl-s1">msg</span>), <span class="pl-c1">None</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>) <span class="pl-c1">!=</span> <span class="pl-c1">0</span>:
-                    <span class="pl-k">if</span> <span class="pl-s1">msg</span>.<span class="pl-c1">message</span> <span class="pl-c1">==</span> <span class="pl-s1">win32con</span>.<span class="pl-c1">WM_HOTKEY</span>:
-                        <span class="pl-k">if</span> <span class="pl-s1">msg</span>.<span class="pl-c1">wParam</span> <span class="pl-c1">==</span> <span class="pl-s1">win32con</span>.<span class="pl-c1">MOD_ALT</span>:
-                            <span class="pl-s1">self</span>.<span class="pl-c1">ShowWindow</span>.<span class="pl-c1">emit</span>(<span class="pl-s1">msg</span>.<span class="pl-c1">lParam</span>)
-            <span class="pl-k">finally</span>:
-                <span class="pl-s1">user32</span>.<span class="pl-c1">UnregisterHotKey</span>(<span class="pl-c1">None</span>, <span class="pl-c1">1</span>)</pre></div>
+<pre lang="python" class="notranslate"><code class="notranslate">import win32con
+from ctypes import *
+from ctypes.wintypes import *
+from PySide6.QtCore import *
+from PySide6.QtGui import *
+from PySide6.QtWidgets import *
+import tkinter.messagebox
+main_key = 192
+class HotKey(QThread):
+    ShowWindow = Signal(int)
+    def __init__(self):
+        super(HotKey, self).__init__()
+        self.main_key = 192
+    def run(self):
+        user32 = windll.user32
+        while True:
+            if not user32.RegisterHotKey(None, 1, win32con.MOD_ALT, self.main_key):  # alt+~
+                tkinter.messagebox.showerror("错误","全局热键注册失败。")
+            try:
+                msg = MSG()
+                if user32.GetMessageA(byref(msg), None, 0, 0) != 0:
+                    if msg.message == win32con.WM_HOTKEY:
+                        if msg.wParam == win32con.MOD_ALT:
+                            self.ShowWindow.emit(msg.lParam)
+            finally:
+                user32.UnregisterHotKey(None, 1)
+
+</code></pre>
 <blockquote>
 <p>mainwindow.py</p>
 </blockquote>
-<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-k">import</span> <span class="pl-s1">sys</span>, <span class="pl-s1">os</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtCore</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtWidgets</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">from</span> <span class="pl-v">PySide6</span>.<span class="pl-v">QtGui</span> <span class="pl-k">import</span> <span class="pl-c1">*</span>
-<span class="pl-k">import</span> <span class="pl-s1">hotKey</span>
-<span class="pl-k">class</span> <span class="pl-v">UUMainWindow</span>(<span class="pl-v">QWidget</span>):
-    <span class="pl-v">ShowWindow</span> <span class="pl-c1">=</span> <span class="pl-en">Signal</span>(<span class="pl-s1">int</span>)
-    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>, <span class="pl-s1">parent</span><span class="pl-c1">=</span><span class="pl-c1">None</span>):
-        <span class="pl-en">super</span>(<span class="pl-v">UUMainWindow</span>, <span class="pl-s1">self</span>).<span class="pl-c1">__init__</span>(<span class="pl-s1">parent</span>)
-        <span class="pl-s1">self</span>.<span class="pl-c1">setWindowTitle</span>(<span class="pl-s">'主页面'</span>)
-        <span class="pl-s1">self</span>.<span class="pl-c1">setGeometry</span>(<span class="pl-c1">300</span>, <span class="pl-c1">100</span>, <span class="pl-c1">1300</span>, <span class="pl-c1">800</span>)
-    <span class="pl-k">def</span> <span class="pl-en">hot_key_event</span>(<span class="pl-s1">self</span>, <span class="pl-s1">data</span>):
-        <span class="pl-k">if</span> <span class="pl-s1">data</span> <span class="pl-c1">==</span> <span class="pl-c1">12582913</span>:
-            <span class="pl-k">if</span> <span class="pl-s1">self</span>.<span class="pl-c1">isMinimized</span>():
-                <span class="pl-s1">self</span>.<span class="pl-c1">showNormal</span>()
-            <span class="pl-k">else</span>:
-                <span class="pl-s1">self</span>.<span class="pl-c1">showMinimized</span>()
-<span class="pl-k">if</span> <span class="pl-s1">__name__</span> <span class="pl-c1">==</span> <span class="pl-s">'__main__'</span>:
-    <span class="pl-s1">app</span> <span class="pl-c1">=</span> <span class="pl-en">QApplication</span>(<span class="pl-s1">sys</span>.<span class="pl-c1">argv</span>)
-    <span class="pl-s1">main</span> <span class="pl-c1">=</span> <span class="pl-en">UUMainWindow</span>()
-    <span class="pl-s1">hot_key</span> <span class="pl-c1">=</span> <span class="pl-s1">hotKey</span>.<span class="pl-c1">HotKey</span>()
-    <span class="pl-s1">hot_key</span>.<span class="pl-c1">ShowWindow</span>.<span class="pl-c1">connect</span>(<span class="pl-s1">main</span>.<span class="pl-c1">hot_key_event</span>)
-    <span class="pl-s1">hot_key</span>.<span class="pl-c1">start</span>()
-    <span class="pl-s1">main</span>.<span class="pl-c1">show</span>()
-    <span class="pl-s1">sys</span>.<span class="pl-c1">exit</span>(<span class="pl-s1">app</span>.<span class="pl-c1">exec</span>())</pre></div>
+<pre lang="python" class="notranslate"><code class="notranslate">import sys, os
+from PySide6.QtCore import *
+from PySide6.QtWidgets import *
+from PySide6.QtGui import *
+import hotKey
+class UUMainWindow(QWidget):
+    ShowWindow = Signal(int)
+    def __init__(self, parent=None):
+        super(UUMainWindow, self).__init__(parent)
+        self.setWindowTitle('主页面')
+        self.setGeometry(300, 100, 1300, 800)
+    def hot_key_event(self, data):
+        if data == 12582913:
+            if self.isMinimized():
+                self.showNormal()
+            else:
+                self.showMinimized()
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    main = UUMainWindow()
+    hot_key = hotKey.HotKey()
+    hot_key.ShowWindow.connect(main.hot_key_event)
+    hot_key.start()
+    main.show()
+    sys.exit(app.exec())
+
+</code></pre>
 <div class="markdown-alert markdown-alert-note"><p class="markdown-alert-title"><svg class="octicon octicon-info mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg>Note</p><p>注册的全局热键是<code class="notranslate">Alt</code>+<code class="notranslate">~</code>。</p>
 </div>
 <h2>总结</h2>
@@ -358,7 +362,7 @@ if(""!=""){
 </script></div>
 </body>
 <script>
-var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
 var utterancesLoad=0;
 
 let themeSettings={
@@ -396,70 +400,7 @@ document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
 
 
 
-document.addEventListener('DOMContentLoaded', () => {
-    const createClipboardHTML = (codeContent, additionalClasses = '') => `
-        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
-        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
-            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
-                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
-                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
-            </clipboard-copy>
-            <div class="copy-feedback">Copied!</div>
-        </div>
-    `;
 
-    const handleCodeElements = (selector = '') => {
-        document.querySelectorAll(selector).forEach(codeElement => {
-            const codeContent = codeElement.innerHTML;
-            const newStructure = document.createElement('div');
-            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
-            newStructure.innerHTML = createClipboardHTML(codeContent);
-
-            const parentElement = codeElement.parentElement;
-            if (selector.includes('highlight')) {
-                parentElement.insertBefore(newStructure, codeElement.nextSibling);
-                parentElement.removeChild(codeElement);
-            } else {
-                parentElement.parentElement.replaceChild(newStructure, parentElement);
-            }
-        });
-    };
-
-    handleCodeElements('pre.notranslate > code.notranslate');
-    handleCodeElements('div.highlight > pre.notranslate');
-
-    let currentFeedback = null;
-    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
-        copyButton.addEventListener('click', () => {
-            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
-            const tempTextArea = document.createElement('textarea');
-            tempTextArea.value = codeContent;
-            document.body.appendChild(tempTextArea);
-            tempTextArea.select();
-            document.execCommand('copy');
-            document.body.removeChild(tempTextArea);
-
-            const copyIcon = copyButton.querySelector('.octicon-copy');
-            const checkIcon = copyButton.querySelector('.octicon-check');
-            const copyFeedback = copyButton.nextElementSibling;
-
-            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
-            currentFeedback = copyFeedback;
-
-            copyIcon.classList.add('d-none');
-            checkIcon.classList.remove('d-none');
-            copyFeedback.style.display = 'block';
-            copyButton.style.borderColor = 'var(--color-success-fg)';
-
-            setTimeout(() => {
-                copyIcon.classList.remove('d-none');
-                checkIcon.classList.add('d-none');
-                copyFeedback.style.display = 'none';
-                copyButton.style.borderColor = '';
-            }, 2000);
-        });
-    });
-});
 
 </script>
 <script src= 'https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>
