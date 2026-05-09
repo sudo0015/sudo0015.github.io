@@ -7,38 +7,92 @@
 > *考虑到隐私保护，此链接将不再自动填充提取码，提取码请到群内查看。*
 
 ## 作业
-- **语文**：范文；卷。
+- **语文**：梳理“小说”。
 - **数学**：卷。
-- **英语**：绿本Day10 & 11；弹性；练字。
+- **英语**：Day 13；弹性。
 - **物理`选`**：卷。
-- **化学`选`**：小本P142-P146。
-- **生物`选`**：大本P71-P76，P118-P128。
+- **化学`选`**：湖丽衢后半张。
+- **生物`选`**：宁波卷剩余。
 - **信技`选`**：卷。
 - **通技`选`**：卷。
-- **提醒**：填写毕业生登记表（**团员信息见支部群**）。
 
 > [!WARNING]
 > *作业可能不完整，请以老师要求为准。*
 
 ## 通知
-### 五一放假安排
-- **放假时间**：4月30日—5月3日、5月9日
-- **课务安排**
-  1. **4月30日（周四）**：按周六临时课表、临时作息上课，课后放假。
-  2. **5月3日（周日）**：下午按年级要求返校，按周日夜办公。
-  3. **5月4日（周一）起**：按正常课表正常作息上课。
-  4. **5月9日（周六）**：按临时课表、临时作息上课，课后放假。
+### 关于做好2026年上半年发展团员工作的通知
 
-### 毕业生登记表填写说明
-1. 在填表前先提醒学生看清封面的填表说明。
-2. 第一面填写年月日统一为2026年5月18日。
-3. 第二面证件照用小二寸照，两张正表都要贴，而且两张正表都要上交。
-4. 父母及抚养人情况，如父母一方或病亡或离异都需填写清楚，政治面貌可填团员或群众，不要填清白。弟妹无供养能力的，不要填上去。
-5. 本人学习简历从小学填起，中间如有转校的都应填写清楚。
-6. 第三面：
-  a. 入团或入党不要忘了填写时间和学校。以入团申请书上的内容为准，一定要一致（时间不可填错，关系到一生）。
-  b. 奖励、处分及社会工作都指高中阶段，如有应写明时间内容。
-  c. 有何特长一栏，不要把爱好当特长填写。
-  d. 健康状况：健康、良好、一般。
-7. 第四面毕业鉴定：应告诉学生要认真填写，从德、智、体诸方面尽量写完整，不要出现错字病句，此档案要跟随学生一生，关系极大，不可随意。最后不要忘记本人签名。
-8. 学生填写完正表后请再次认真检查。班主任鉴定一栏内容由班主任填写完后上交教学处（2）。时间可以5月底。
+<body>
+    <div class="ArticleContent mb-5 " id="articleBody" style="display:block;">
+        <p><span style="font-size:19px">全校各班团支部：</span></p>
+        <p style="text-indent:37px"><span style="font-size:19px">为深入贯彻落实习近平总书记关于加强新时代团员队伍先进性建设的重要指示，深入推进全面从严治团，优化团员队伍规模结构，提高发展团员工作质量，根据上级团组织的部署，现将做好2026年上半年浙江省春晖中学发展团员调控工作通知如下：</span>
+        </p>
+        <p><span style="font-size:19px">一、团员发展计划</span></p>
+        <p><span style="font-size:19px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据团区委分配的指标，结合本校实际情况，2026年上半年全校拟发展团员170名。依据上级关于发展团员与入团积极分子比例不低于</span><strong><span
+                    style="font-size: 19px">1:1.5</span></strong><span
+                style="font-size:19px">的要求，结合各班上报的入团意愿，经与各年级商议分配。</span></p>
+        <p><span style="font-size:19px">二、团员发展程序</span></p>
+        <p style="text-indent:37px"><span
+                style="font-size: 19px">为进一步落实《新时代共青团员先进性评价指导大纲（试行）》和《新时代中学团课教育指导大纲（第1版，2021年）》，中学团员发展程序要坚持做到“一课双推三公示四考察五步曲”。具体为：</span>
+        </p>
+        <p><span style="font-size:19px">1.“一课”：入团积极分子培训团课。</span></p>
+        <p style="text-indent:37px"><span
+                style="font-size: 19px">【具体要求】青年学生积极学习主题团课、青年大学习，夯实基础，提高本领。</span></p>
+        <p><span style="font-size: 19px">2.&nbsp;“双推”：入团积极分子推优、团的发展对象推优。</span></p>
+        <p style="text-indent:37px"><strong><span
+                    style="font-size: 19px">【具体要求】入团积极分子：</span></strong><span
+                style="font-size:19px">各班团支部结合本支部青年学生入团意愿及平时表现确定班内入团积极分子。确认为入团积极分子后，该学生需填写</span><strong><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">问卷一</span></strong><span
+                style="font-size:19px">，提交</span><strong><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">入团申请书</span></strong><span
+                style="font-size:19px">以及发送</span><strong><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">谈话稿</span></strong><span
+                style="font-size:19px">。</span></p>
+        <p style="text-indent:37px"><span style="font-size:19px">（1）问卷：问卷一https://v.wjx.cn/vm/wdJtOnL.aspx#。</span></p>
+        <p style="text-indent:37px"><span style="font-size:19px">（2）入团申请书：申请书要求</span><strong><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">手写</span></strong><span
+                style="font-size:19px">，格式见附件，字数1000字以上、A4纸形式，</span><strong><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">5月11日（下周一）前上交至</span></strong><strong><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">各班</span></strong><strong><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">团支书处。</span></strong></p>
+        <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px;"><span
+                style="text-indent: 37px; font-size: 19px;">&nbsp; &nbsp; &nbsp;
+                （3）谈话稿：学生需准备六个问题的谈话稿（见附件二），并以</span><strong style="text-indent: 37px;"><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">电子文档</span></strong><span
+                style="text-indent: 37px; font-size: 19px;">的形式于</span><strong
+                style="text-indent: 37px;"><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">5月11日（下周一）前</span></strong><strong
+                style="text-indent: 37px;"><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">发送</span></strong><strong
+                style="text-indent: 37px;"><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">至</span></strong><strong
+                style="text-indent: 37px;"><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">各班</span></strong><strong
+                style="text-indent: 37px;"><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">团支书处</span></strong><span
+                style="text-indent: 37px; font-size: 19px;">。六个问题为①请介绍一下个人基本情况及学习或工作情况。②请谈谈入团动机和理由。③请谈谈对共青团的认识。④个人是否有宗教信仰，家庭主要成员是否有信仰宗教或参加宗教活动的情况，是否有受到刑事处罚的情况。⑤请简要介绍接下来的努力方向。⑥其他需要向团组织说明的问题。</span>
+        </p>
+        <p style="text-indent:28px"><strong><span
+                    style="font-size:19px">【具体要求】团的发展对象：</span></strong><span
+                style="font-size:19px">各班团支部结合学校分配名额，在入团积极分子递交入团申请书后，班团支部委员会充分听取谈话人和群众意见，经团支部委员会无记名投票后推优团员发展对象。团支书将入团申请书、谈话稿和最终新团员名单于<strong><span
+                        style="font-size: 19px; color: rgb(255, 0, 0);">5月12日（下周二）16:50交至团委办公室倪亚芳老师处。</span></strong></span>
+        </p>
+        <p><span style="font-size:19px">3.“三公示”：公示团的发展对象，时间为五个工作日。</span></p>
+        <p style="text-indent:37px"><span style="font-size:19px">【具体要求】发展对象公示于校园网上，5月13日-5月19日为公示期。</span></p>
+        <p><span
+                style="font-size:19px">4.“四考察”：入团申请考察、入团积极分子教育考察、团的发展对象培养考察、接收的新团员资格考察。</span><strong><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">信仰宗教者不得入团</span></strong><span
+                style="font-size:19px">，重点考察入团对象的理想信念、日常操行、品德修养、学习成绩、参与社会实践和志愿服务等情况。</span></p>
+        <p style="text-indent:28px"><span style="font-size:19px">【具体要求】校团委将进一步确定，团的发展对象符合年满14周岁、思政课考评优良、8学时团课学习合格、参与校志愿服务等基础入团必备条件，最终确定170名新团员。</span>
+        </p>
+        <p><span
+                style="font-size:19px">5.“五步曲”：申请入团——确定和教育入团积极分子——确定和考察发展对象——接收新团员——开展入团仪式。</span>
+        </p>
+        <p><span style="font-size:19px">另
+                ：拟于</span><strong><span
+                    style="color: rgb(255, 0, 0);font-size: 19px">5月22日晚18：20在顺来图书馆一楼录播教室</span></strong><span
+                style="font-size:19px">召开入团仪式，请各位新团员统一着校服，携带1张一寸照，1张两寸照，纸笔参加。</span></p>
+        <p><br></p>
+        <p></p>
+    </div>
+</body>
